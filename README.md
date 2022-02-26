@@ -11,9 +11,18 @@
 * test_images_list.csv-upload your prediction on these images in the same order and format as given in sample_submission.csv
 
 ### Data directory
-<p align="center">
+<p align="left">
   <img src="img/Capture1.PNG" alt="darts" width="48%">
 </p>
+
+## Models 
+
+* CNN MODEL
+This is a simple 3 layer CNN model trained from scratch for 35 epocs. Learning rate is set to 0.00001 and reduced at a factor of 0.1. 
+<p align="left">
+  <img src="img/cnnmodel.PNG" alt="darts" width="48%">
+</p>
+
 
 ### Steps to reproduce
    Clone this repo ```https://github.com/PurvaChiniya/sports-classification.git```, change to the current directory and run finalcode.py
