@@ -1,4 +1,4 @@
-# sports-classification
+# Sports-Classification
 
 ## Overview
 
@@ -20,7 +20,7 @@
 * CNN MODEL
 This is a simple 3 layer CNN model trained from scratch for 35 epocs. Learning rate is set to 0.00001 and reduced at a factor of 0.1. 
 <p align="left">
-  <img src="img/cnnmodel.PNG" alt="darts" width="48%">
+  <img src="img/cnn_model.PNG" alt="darts" width="48%">
 </p>
 
 
