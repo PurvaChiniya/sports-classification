@@ -18,11 +18,16 @@
 ## Models 
 
 * CNN MODEL
-This is a simple 3 layer CNN model trained from scratch for 35 epocs. Learning rate is set to 0.00001 and reduced at a factor of 0.1. 
+ This is a simple 3 layer CNN model trained from scratch for 35 epocs. Learning rate is set to 0.00001 and reduced at a factor of 0.1. 
 <p align="left">
   <img src="img/cnn_model.PNG" alt="darts" width="48%">
 </p>
 
-
+* VGG16 Transfer Learning Model
+This is a transfer learning model , with top layers from pretrained vgg16 and classification layers are added on top of that. Learning rate is 0.0001.
+<p align="left">
+  <img src="img/vgg16_model.PNG" alt="darts" width="48%">
+</p>
+ 
 ### Steps to reproduce
    Clone this repo ```https://github.com/PurvaChiniya/sports-classification.git```, change to the current directory and run finalcode.py
