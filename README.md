@@ -2,7 +2,10 @@
 
 ## Overview
 
-   This project is based on creating a image classifier which is trained for sports image dataset, from kaggle  "Sports Images Classification" competition. 
+   This project is based on creating a image classifier which is trained for sports image dataset, from kaggle  "Sports Images Classification" competition.
+### Motivation 
+This project is heavily based on one of my past projects, SSD object detection https://github.com/PurvaChiniya/Single_shot_detector
+
 ## File Description:
 * train.zip - the training set of images
 * test.zip - the test set of images on which predictions are to be published
