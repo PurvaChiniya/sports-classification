@@ -33,4 +33,4 @@ This is a transfer learning model , with top layers from pretrained vgg16 and cl
 </p>
  
 ### Steps to reproduce
-   Clone this repo ```https://github.com/PurvaChiniya/sports-classification.git```, change to the current directory and run finalcode.py
+   Clone this repo ```https://github.com/PurvaChiniya/sports-classification.git```, change to the current directory and run classify-sports.ipynb
