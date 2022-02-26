@@ -13,7 +13,7 @@ train_labels.csv - contains the classes for the the training set images along wi
 test_images_list.csv-upload your prediction on these images in the same order and format as given in sample_submission.csv
 **Data directory**
 <p align="center">
-  <img src="img/darts.png" alt="darts" width="48%">
+  <img src="img/Capture1.PNG" alt="darts" width="48%">
 </p>
 ## Steps to reproduce
    Clone this repo ```git clone https://github.com/maramsumanth/AI-Driving-Car.git```, change to the current directory and run finalcode.py
