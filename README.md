@@ -16,4 +16,4 @@
 </p>
 
 ### Steps to reproduce
-   Clone this repo ```git clone https://github.com/maramsumanth/AI-Driving-Car.git```, change to the current directory and run finalcode.py
+   Clone this repo ```https://github.com/PurvaChiniya/sports-classification.git```, change to the current directory and run finalcode.py
