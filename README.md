@@ -11,8 +11,6 @@ test.zip - the test set of images on which predictions are to be published
 sample_submission.csv - a sample submission file in the correct format
 train_labels.csv - contains the classes for the the training set images along with their path
 test_images_list.csv-upload your prediction on these images in the same order and format as given in sample_submission.csv
-
-![Data directory](https://drive.google.com/file/d/1VFQ7L5JMHxDCed9hu-AY2JHJk_niSAd1/view?usp=sharing)
-   
+**Data directory**([Data directory](https://drive.google.com/file/d/1VFQ7L5JMHxDCed9hu-AY2JHJk_niSAd1/view?usp=sharing))  
 ## Steps to reproduce
    Clone this repo ```git clone https://github.com/maramsumanth/AI-Driving-Car.git```, change to the current directory and run finalcode.py
